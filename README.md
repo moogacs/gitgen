@@ -7,7 +7,7 @@ A simple utility to generate unique git branch names based on your git username 
 You can install GitGen using Homebrew:
 
 ```bash
-brew tap yourusername/gitgen
+brew tap moogacs/gitgen
 brew install gitgen
 ```
 
